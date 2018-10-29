@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "tags": "Miscellaneous|NPCs and Creatures|Character Improvements|Armor and Clothes",
+  "author": "thakyZ",
+  "description": "Makes the Neko-Alternate male bodies more feminine!\n\nFull credit to [url=https://steamcommunity.com/profiles/76561198136649623] Achromatic [/url], he did all the sprite work, all I did was rename files from his [url=https://steamcommunity.com/sharedfiles/filedetails/?id=955282067&tscn=1532392013] Flattest Chest [/url] mod to make them affect males instead of females, to make femboys. And [url=https://steamcommunity.com/profiles/76561198057844712/] Harvey [/url], he made the original Femboy Body mod.",
+  "name": "femboy_nekos",
+  "includes": ["Femboy_Body", "Neko Alternate"],
+  "friendlyName": "Femboy Nekos"
+}
