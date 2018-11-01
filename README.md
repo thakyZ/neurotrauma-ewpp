@@ -1,9 +1,9 @@
 #Femboy Nekos
 #####Make neko bois feminine again!
 
-![coverImage]()
-![Character Selection Without Mod]()
-![Character Selection With Mod]()
+![coverImage](https://raw.githubusercontent.com/thakyZ/femboy-nekos/media/cover.png)
+![Character Selection Without Mod](https://raw.githubusercontent.com/thakyZ/femboy-nekos/media/image1.png)
+![Character Selection With Mod](https://raw.githubusercontent.com/thakyZ/femboy-nekos/media/image0.png)
 
 Just alters the body sprite for male Nekos in the Neko Alternate mod.   
 Credits:
