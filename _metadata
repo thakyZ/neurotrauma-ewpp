@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "tags": "Miscellaneous|Character Improvements",
-  "author": "thakyZ",
-  "description": "^#EA9931;Make neko bois feminine again!^#FFFFFF;\n\nJust alters the body sprite for male nekos in the Neko Alternate mod.\n\nCredits:\n^#A451C4;Lillnex^#FFFFFF; ^#9BBA3D;https://github.com/Lillnex^#FFFFFF; Body sprite\n^#A451C4;kittycat2002^#FFFFFF; ^#9BBA3D;https://github.com/kittycat2002^#FFFFFF; Neko Alternate mod\n^#A451C4;Harvey^#FFFFFF; ^#9BBA3D;https://steamcommunity.com/profiles/76561198057844712^#FFFFFF; Femboy Bodies mod\n^#A451C4;Achromatic^#FFFFFF; ^#9BBA3D;https://steamcommunity.com/profiles/76561198136649623^#FFFFFF; Flattest Chest mod\n\n^#A451C4;Lovers Lab:^#FFFFFF; ^#9BBA3D;https://www.loverslab.com/files/file/7684-sexbound-neko-alternate/^#FFFFFF;\n^#A451C4;Steam Workshop:^#FFFFFF; ^#9BBA3D;Coming soon.^#FFFFFF;\n\nThis mod requires the Neko Alternate mod by Cat2002.\n^#A451C4;Neko Alternate:^#FFFFFF;\n^#A451C4;Chucklefish Forums:^#FFFFFF; ^#9BBA3D;https://community.playstarbound.com/resources/neko-alternate.5159/^#FFFFFF;\n^#A451C4;Steam Workshop:^#FFFFFF; ^#9BBA3D;https://steamcommunity.com/sharedfiles/filedetails/?id=1109772923^#FFFFFF;",
-  "name": "femboy_nekos",
-  "includes": [ "Femboy_Body", "Neko Alternate" ],
-  "friendlyName": "Femboy Nekos"
+  "author" : "thakyZ",
+  "description" : "^#EA9931;Make neko bois feminine again!^reset;\n\nJust alters the body sprite for male nekos in the Neko Alternate mod.\n\nCredits:\n^#A451C4;Lillnex^reset; ^#9BBA3D;https://github.com/Lillnex^reset; Body sprite\n^#A451C4;kittycat2002^reset; ^#9BBA3D;https://github.com/kittycat2002^reset; Neko Alternate mod\n^#A451C4;Harvey^reset; ^#9BBA3D;https://steamcommunity.com/profiles/76561198057844712^reset; Femboy Bodies mod\n^#A451C4;Achromatic^reset; ^#9BBA3D;https://steamcommunity.com/profiles/76561198136649623^reset; Flattest Chest mod\n\n^#A451C4;Gitlab:^reset;\n^#A451C4;Lovers Lab:^reset; ^#9BBA3D;https://www.loverslab.com/files/file/7684-sexbound-neko-alternate/^reset;\n^#A451C4;Steam Workshop:^reset; ^#9BBA3D;Coming soon.^reset;\n\nThis mod requires the Neko Alternate mod by Cat2002.\n^#A451C4;Neko Alternate:^reset;\n^#A451C4;Chucklefish Forums:^reset; ^#9BBA3D;https://community.playstarbound.com/resources/neko-alternate.5159/^reset;\n^#A451C4;Steam Workshop:^reset; ^#9BBA3D;https://steamcommunity.com/sharedfiles/filedetails/?id=1109772923^reset;",
+  "friendlyName" : "Femboy Nekos",
+  "includes" : ["Femboy_Body", "Neko Alternate"],
+  "name" : "femboy_nekos",
+  "tags" : "Miscellaneous|Character Improvements",
+  "version" : "1.0.2"
 }
