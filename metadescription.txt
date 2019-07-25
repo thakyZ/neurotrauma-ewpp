@@ -13,6 +13,5 @@ Credits:
 ^#A451C4;Steam Workshop:^reset; ^#9BBA3D;Coming soon.^reset;
 
 This mod requires the Neko Alternate mod by Cat2002.
-^#A451C4;Neko Alternate:^reset;
 ^#A451C4;Chucklefish Forums:^reset; ^#9BBA3D;https://community.playstarbound.com/resources/neko-alternate.5159/^reset;
 ^#A451C4;Steam Workshop:^reset; ^#9BBA3D;https://steamcommunity.com/sharedfiles/filedetails/?id=1109772923^reset;
